@@ -1,3 +1,3 @@
 # test-repo
 
-Testowy tekst Commit
+Testowy tekst Commit!
