@@ -4,3 +4,5 @@ Testowy tekst Commit!
 test
 
 test
+test
+Test
